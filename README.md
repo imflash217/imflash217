@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Vinay.</h2>
 
 <!--
 **imflash217/imflash217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
