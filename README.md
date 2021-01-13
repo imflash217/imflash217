@@ -1,9 +1,12 @@
 <h2 align="center">👋 Hello! I'm Vinay.</h2>
 <h2> EDUCATION: </h2>
-
 1. MS in ECE at NC State University
 2. BTech in EE at Indian Institute of Technology Hyderabad
 
+<h2> PUBLICATIONS: </h2>
+<a href="https://www.isca-speech.org/archive/interspeech_2014/i14_1658.html">1. Feature extraction from analytic phase of speech signals for speaker verification (INTERSPEECH).</a>
+
+<a href="https://www.researchgate.net/profile/Karthika_Vijayan/publication/302884164_Allpass_modelling_of_fourier_phase_for_speaker_verification/links/573543a308aea45ee83b1776.pdf">2. Allpass modelling of Fourier phase for speaker verification (ODYSSEY). </a>
 <!--
 **imflash217/imflash217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
