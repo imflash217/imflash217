@@ -13,7 +13,7 @@
 
 - [02/2020 - Present] Research Assistant <a href="https://github.com/iVMCL">@iVMCL</a>.
 - [05/2020 - 07/2020] Research Intern <a href="https://research.ece.ncsu.edu/aros/">@ARoS Labs</a>.
-- [06/2019 - 01/2020] Machine Learning Engineer <a href="https://www.springboard.com/">@Springboard Inc.</a>
+- [06/2019 - 01/2020] Machine Learning Engineer Mentor <a href="https://www.springboard.com/">@Springboard Inc.</a>
 - [06/2018 - 06/2019] Senior Digital Signal Processing Engineer <a href="https://meeamitech.com/">@Meeami Technologies</a>.
 - [07/2017 - 06/2018] Founder (Deep Learning Engineer) @flashAI
 - [06/2014 - 07/2017] Associate Engineer <a href="https://www.cognizant.com/">@Cognizant Technologies Pvt. Ltd.</a>
