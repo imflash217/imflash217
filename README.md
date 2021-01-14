@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm Vinay.</h2>
 <h2> EDUCATION: </h2>
 
-- MS in ECE at NC State University.
-- BTech in EE at Indian Institute of Technology Hyderabad.
+- MS in ECE at <a href="https://www.ncsu.edu/">NC State University</a>.
+- BTech in EE at <a href="https://www.iith.ac.in/">Indian Institute of Technology Hyderabad</a>.
 
 <h2> PUBLICATIONS: </h2>
 <a href="https://www.isca-speech.org/archive/interspeech_2014/i14_1658.html">1. Feature extraction from analytic phase of speech signals for speaker verification (INTERSPEECH).</a>
