@@ -13,7 +13,7 @@ Previous Jobs....:
 
 Education........:
                   • MS in Electrical Engineering @NCState-University
-                  • BTech in Electrical Engineering @IIT-Hyderabad
+                  • BTech in Computer Science & Electrical Engineering @IIT-Hyderabad
 
 Hands on.........: Machine Learning | LLM | Speech Processing | Computer Vision | Stateful Agents
 Interests........: 📝 Sanskrit 🧘 🏃‍♂️ 👨🏻‍🍳
