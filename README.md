@@ -6,7 +6,7 @@ Day Job..........: Sr. ML Engineer @TIAA
 Background.......: Boom Interactive • ivmcl @NCState • Meeami Technologies • FlashAI
 Education........: @NCState University • @IIT-Hyderabad
 Coordinates......: Machine Learning | LLM | Speech Processing | Computer Vision | Stateful Agents | Eval Pipelines
-Interests........: 📝 Sanskrit 🧘 🏃‍♂️
+Interests........: 📝 Sanskrit 🧘 🏃‍♂️ 👨🏻‍🍳
 Location.........: Austin, TX
 ```
 ## PUBLICATIONS
