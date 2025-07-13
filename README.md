@@ -2,10 +2,20 @@
 $ whois @imflash217
 
 Name.............: Vinay Kumar
-Day Job..........: Sr. ML Engineer @TIAA
-Background.......: Boom Interactive • ivmcl @NCState • Meeami Technologies • FlashAI
-Education........: @NCState University • @IIT-Hyderabad
-Coordinates......: Machine Learning | LLM | Speech Processing | Computer Vision | Stateful Agents | Eval Pipelines
+Current Job......: Sr. ML Engineer @TIAA
+
+Previous Jobs....:
+                  • ML Engineer @Boom-Interactive
+                  • ML Research Engineer @ivmcl-NCState
+                  • Sr. DSP & ML Engineer @Meeami-Technologies
+                  • Founder & ML Engineer @FlashAI
+                  • Research Associate @Cognizant-AI-Labs
+
+Education........:
+                  • MS in Electrical Engineering @NCState-University
+                  • BTech in Electrical Engineering @IIT-Hyderabad
+
+Hands on.........: Machine Learning | LLM | Speech Processing | Computer Vision | Stateful Agents
 Interests........: 📝 Sanskrit 🧘 🏃‍♂️ 👨🏻‍🍳
 Location.........: Austin, TX
 ```
