@@ -2,7 +2,7 @@
 $ whois @imflash217
 
 Name.............: Vinay Kumar
-Current Job......: Sr. ML Engineer @TIAA
+Current Job......: Lead ML Engineer @TIAA
 
 Previous Jobs....:
                   • ML Engineer @Boom-Interactive
@@ -17,7 +17,7 @@ Education........:
 
 Hands on.........: Machine Learning | LLM | Speech Processing | Computer Vision | Stateful Agents
 Interests........: 📝 Sanskrit 🧘 🏃‍♂️ 👨🏻‍🍳
-Location.........: Austin, TX
+Location.........: Pittsburgh, PA
 ```
 ## PUBLICATIONS
 1. [Feature extraction from analytic phase of speech signals for speaker verification (INTERSPEECH)](https://www.isca-speech.org/archive/interspeech_2014/i14_1658.html)
