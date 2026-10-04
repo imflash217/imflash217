@@ -2,9 +2,10 @@
 $ whois @imflash217
 
 Name.............: Vinay Kumar
-Current Job......: Lead ML Engineer @TIAA
+Current Job......: Senior ML Engineer @PNC
 
 Previous Jobs....:
+                  • Senior ML Engineer @TIAA
                   • ML Engineer @Boom-Interactive
                   • ML Research Engineer @ivmcl-NCState
                   • Sr. DSP & ML Engineer @Meeami-Technologies
